@@ -1,0 +1,12 @@
+[package]
+name = "noop-waker"
+version = "0.1.0"
+edition = "2018"
+authors = ["notgull <jtnunley01@gmail.com>"]
+description = "A waker that does nothing"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/notgull/noop-waker"
+homepage = "https://github.com/notgull/noop-waker#readme"
+
+[dev-dependencies]
+futures-lite = "1"
